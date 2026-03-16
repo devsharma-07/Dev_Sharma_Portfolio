@@ -1,6 +1,6 @@
 ﻿# Dev_Sharma_Portfolio
 
-##$ Welcome to my portfolio!
+### Welcome to my portfolio!
 
 My name is Dev Sharma and I am studying **Business + Data Science** with a specialization in **Operations Management** and a **minor in Computer Science** at the UIUC Gies College of Business.
 
